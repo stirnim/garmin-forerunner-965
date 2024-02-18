@@ -1,5 +1,14 @@
 # Garmin Forerunner 965 Configuration Guide
 
+## Table of Contents
+
+1. [Device Information](#device-information)
+2. [Configuration Settings](#configuration-settings)
+   - [Disable Turn Prompts](#disable-turn-prompts)
+   - [Course Recalculation When Off Course](#course-recalculation-when-off-course)
+3. [Known Issues](#known-issues)
+   - [Off Course Alert](#off-course-alert)
+
 ## Device Information
 
 - **Model**: Forerunner 965
@@ -9,7 +18,7 @@
 
 ### Disable Turn Prompts
 
-To avoid frequent and potentially distracting alerts during navigation, especially in areas with many bends or curves (e.g., forest trails), it is advisable to disable the Turn Prompts feature. This prevents the device from issuing sound alerts prematurely.
+To avoid frequent and potentially distracting alerts during navigation, especially in areas with many bends or curves (e.g., forest trails), it is advisable to disable the Turn Prompts feature. This prevents the device from issuing sound alerts ahead of bends or curves.
 
 **App Configuration:**
 
@@ -43,9 +52,9 @@ Settings -> Activities & Apps -> Run -> Run Settings -> Routing -> Courses: Foll
 
 **Reference:** [Garmin Support](https://www8.garmin.com/manuals/webhelp/GUID-0221611A-992D-495E-8DED-1DD448F7A066/EN-US/GUID-4D9C1A64-B6FE-466C-87D7-5A31C3CFDED5.html)
 
-### Known Issues
+## Known Issues
 
-#### Off Course Alert
+### Off Course Alert
 
 Despite being enabled by default, the Off Course Alert feature may not function as expected, failing to issue notifications when the user deviates from the planned route.
 
