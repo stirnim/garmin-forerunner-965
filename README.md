@@ -4,7 +4,7 @@
 
 1. [Device Information](#device-information)
 2. [Configuration Settings](#configuration-settings)
-   - [Disable Turn Prompts](#disable-turn-prompts)
+   - [Turn Prompts](#turn-prompts)
    - [Course Recalculation When Off Course](#course-recalculation-when-off-course)
    - [Off Course Alert](#off-course-alert)
 
@@ -15,7 +15,7 @@
 
 ## Configuration Settings
 
-### Disable Turn Prompts
+### Turn Prompts
 
 To avoid frequent and potentially distracting alerts during navigation, especially in areas with many bends or curves (e.g., forest trails), it is advisable to disable the Turn Prompts feature. This prevents the device from issuing sound alerts ahead of bends or curves.
 
