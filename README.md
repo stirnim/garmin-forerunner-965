@@ -6,7 +6,6 @@
 2. [Configuration Settings](#configuration-settings)
    - [Disable Turn Prompts](#disable-turn-prompts)
    - [Course Recalculation When Off Course](#course-recalculation-when-off-course)
-3. [Known Issues](#known-issues)
    - [Off Course Alert](#off-course-alert)
 
 ## Device Information
